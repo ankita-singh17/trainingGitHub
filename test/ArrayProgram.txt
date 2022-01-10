@@ -1,3 +1,4 @@
+//Example of git status/staging
 public class CountArray {  
     public static void main(String[] args) {  
       //Initialize array  
