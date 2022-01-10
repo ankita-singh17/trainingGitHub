@@ -1,5 +1,3 @@
-app.local = '123'
-
 app.host=localhost
 app.eu.urltemplate=:8080/pfg-app/login.xhtml
 app.ts.urltemplate=:8080/timesetter
