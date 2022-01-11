@@ -1,4 +1,7 @@
 //Example to show merge conflicts
+
+//ABC
+
 for(int i=0; i<row; i++)   
 {   
 for(int j=0; j<=i; j++)   
@@ -6,3 +9,4 @@ for(int j=0; j<=i; j++)
 System.out.print("* ");   
 }   
 System.out.println();   
+//Output
