@@ -9,7 +9,7 @@ storage.screenshot.enabled=true
 storage.softmode.screenshots.enabled=true
 storage.runProperties.isSandbox=true
 
-#
+
 # pef.properties
 browser.selenium.webdriver.factory.class=toolkit.webdriver.WebDriverFactory
 browser.selenium.webdriver.factory.method=getDriver
